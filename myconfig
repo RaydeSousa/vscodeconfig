@@ -1,0 +1,23 @@
+{
+    "workbench.colorTheme": "Dracula",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.fontSize": 18,
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.tabSize": 2,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit"
+    },
+    "editor.formatOnSave": true,
+    "symbols.hidesExplorerArrows": false,
+    "apc.electron": {
+        "titleBarStyle": "hidden"
+    },
+    "apc.font.family": "JetBrains Mono",
+    "apc.listRow": {
+        "lists": [
+            "explorer-folders-view",
+            ],
+        "height": 26,
+        "fontSize": 18  
+    }
+}
